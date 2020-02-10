@@ -1,4 +1,4 @@
 <?php 
 
-    DEFINE("BASE_URL","http://localhost:8899/Online-Music/");
+    DEFINE("BASE_URL","https://chinhpd1802.github.io/Music-WEB/");
 ?>
